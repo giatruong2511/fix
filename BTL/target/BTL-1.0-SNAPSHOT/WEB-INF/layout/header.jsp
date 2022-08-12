@@ -19,5 +19,3 @@
         <li><a href="<spring:url value="/login" />">Đăng Nhập</a></li>
       </ul>
     </nav>
-
-<script src="<spring:url value="/js/main.js" />"></script>
